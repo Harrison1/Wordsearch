@@ -5,6 +5,8 @@ This is a java program that reads in a scrambled word puzzle along with the word
 
 The program will output the solution in a user friendly manner. The program will tell you where the word is and what direction to move and also print out a soluiton grid with all unecessary letters blocked out.
 
+This program was made for IGN's 2015 Code Foo challenge. You can find a sample txt file in this repository.
+
 Below are some pictures of the output. 
 
 ![Alt text](/screenshots/ws1.PNG?raw=true)
